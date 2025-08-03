@@ -1,6 +1,1 @@
-git init
-git remote add origin https://github.com/YOUR_USERNAME/hackathon-runner.git
-git add .
-git commit -m "Initial commit"
-git branch -M main
-git push -u origin main
+print("Hackathon teammate feature test.")
